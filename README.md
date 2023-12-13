@@ -39,7 +39,6 @@ Develop predictive models for identifying patients with extended stays in the IC
    - Ensured dataset suitability for training and evaluating machine learning models.
 
 ## Results and Discussion:
-
 Utilized XGBoost for binary classification, achieving 87.88% accuracy on the validation set.
 Hyperparameter tuning enhanced the XGBoost model to 88% accuracy on an independent test set.
 Explored feature importance, visualized through a horizontal bar plot, offering insights into model performance.
@@ -47,7 +46,7 @@ This project demonstrates the effectiveness of the XGBoost algorithm in predicti
 
 ## References:
 
-1.  	Marshall, J. C., Bosco, L., Adhikari, N. K., Connolly, B., Diaz, J. V., Dorman, T., Fowler, R. A., Meyfroidt, G., Nakagawa, S., Pelosi, P., Vincent, J. L., Vollman, K., & Zimmerman, J. (2017). What is an intensive care unit? A report of the task force of the World Federation of Societies of Intensive and Critical Care Medicine. Journal of critical care, 37, 270–276. https://doi.org/10.1016/j.jcrc.2016.07.015
+1.  	Marshall, J. C., Bosco, L., Adhikari, N. K., Connolly, B., Diaz, J. V., Dorman, T., Fowler, R. A., Meyfroidt, G., Nakagawa, S., Pelosi, P., Vincent, J. L., Vollman, K., & Zimmerman, J. (2017). What is an intensive care unit? A report of the task force of the World Federation of Societies of Intensive and Critical Care Medicine. Journal of Critical Care, 37, 270–276. https://doi.org/10.1016/j.jcrc.2016.07.015
 2.  	Alghatani, K., Ammar, N., Rezgui, A., & Shaban-Nejad, A. (2021). Predicting Intensive Care Unit Length of Stay and Mortality Using Patient Vital Signs: Machine Learning Model Development and Validation. JMIR medical informatics, 9(5), e21347. https://doi.org/10.2196/21347
 3.  	  Merhan A. Abd-Elrazek, Ahmed A. Eltahawi, Mohamed H. Abd Elaziz, Mohamed N. Abd-Elwhab, Predicting length of stay in hospitals intensive care unit using general admission features, Ain Shams Engineering Journal, Volume 12, Issue 4, 2021, Pages 3691-3702, ISSN 2090-4479, https://doi.org/10.1016/j.asej.2021.02.018. (https://www.sciencedirect.com/science/article/pii/S2090447921001349)
 4.  	Clarke, J. L., Bourn, S., Skoufalos, A., Beck, E. H., & Castillo, D. J. (2017). An Innovative Approach to Health Care Delivery for Patients with Chronic Conditions. Population health management, 20(1), 23–30. https://doi.org/10.1089/pop.2016.0076
