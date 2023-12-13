@@ -35,15 +35,14 @@ Develop predictive models for identifying patients with extended stays in the IC
    - Integrated Explainable AI (XAI) techniques.
 
 5. Integrated Dataset Processing:
-Employed a multi-step preprocessing and feature engineering pipeline.
-Ensured dataset suitability for training and evaluating machine learning models.
+   - Employed a multi-step preprocessing and feature engineering pipeline.
+   - Ensured dataset suitability for training and evaluating machine learning models.
 
 ## Results and Discussion:
 
 Utilized XGBoost for binary classification, achieving 87.88% accuracy on the validation set.
 Hyperparameter tuning enhanced the XGBoost model to 88% accuracy on an independent test set.
 Explored feature importance, visualized through a horizontal bar plot, offering insights into model performance.
-
 This project demonstrates the effectiveness of the XGBoost algorithm in predicting prolonged ICU stays and contributes to improved healthcare practices.
 
 ## References:
